@@ -1,6 +1,14 @@
 # functional-programming
 
-These koans are to help a beginner with no experience get started with clojure. The following instructions are for the teacher/mentor. Set the student system up with an editor and a terminal window running **script/run** and demonstrate how to add an answer and save it.
+These koans are to help a beginner with no experience get started with clojure. 
+
+Built with lein new koan ...
+
+The template is seriously out of date, the scripts to run the new project don't work...
+
+
+
+The following instructions are for the teacher/mentor. Set the student system up with an editor and a terminal window running **script/run** and demonstrate how to add an answer and save it.
 
 --
 
